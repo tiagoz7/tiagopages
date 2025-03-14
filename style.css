@@ -1,0 +1,57 @@
+body {
+
+    background-image: url(mos.jpg);
+     background-attachment: fixed;
+     text-align: center;
+     font-size: 18px;
+     margin: 90px;
+     line-height: 2.5;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     background-position: center;
+
+ }
+
+ .sub {
+    text-align: center;
+ }
+
+ .cabe {
+    background-image: linear-gradient(to top, darkred, red);
+    border-radius: 63px;
+ }
+
+h1 {
+color: white;
+text-align: center  ;
+}
+
+p {
+color: white;
+margin: center;
+margin-left: 30px ;
+font-family: 'Courier New', Courier, monospace;
+text-align: justify ;
+}
+main {
+background-image: linear-gradient(to bottom, #ff0000, rgb(0, 0, 0));
+margin-left: 300px;
+margin-right: 300px ;
+border-radius: 90px;
+border: solid white 7px;
+
+min-width: 900px;
+max-width: 1200px;
+margin: auto    ;
+}
+
+img {
+border-radius: 60px;
+}
+
+.final {
+    font-family: roboto;
+    font-size: 20px;
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
